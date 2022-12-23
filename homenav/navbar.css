@@ -1,0 +1,8 @@
+.container-fluid{
+    background-color: red;
+    max-width: 100%;
+}
+.nav-link{
+
+    float: right;
+}
